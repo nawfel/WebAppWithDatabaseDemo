@@ -6,7 +6,7 @@ pool:
 
 stages:
 - stage:
-    DisplayName: DEV
+    displayName: DEV
 
   jobs:
   - job: Job1
