@@ -49,6 +49,6 @@ https://www.youtube.com/watch?v=uVne2HXkWXI&list=PLpbcUe4chE78FEvDjD9zfzSGvsdkvk
 
 <a href="https://www.youtube.com/watch?v=uVne2HXkWXI&list=PLpbcUe4chE78FEvDjD9zfzSGvsdkvkkrj&index=1"><image src="https://github.com/HoussemDellai/WebAppWithDatabaseDemo/blob/master/docs/Youtube-Classic-CI-CD-Pipelines.jpg?raw=true"/>
 </a>
-
+[![Build Status](https://startup-tunis.visualstudio.com/WebAppWithDatabaseDemo/_apis/build/status/nawfel.WebAppWithDatabaseDemo%20(1)?branchName=master)](https://startup-tunis.visualstudio.com/WebAppWithDatabaseDemo/_build/latest?definitionId=3&branchName=master)
 Pipelines flows are sketched in this picture:
 <image src="https://github.com/HoussemDellai/WebAppWithDatabaseDemo/blob/master/docs/CI-CD-Pipelines.jpg?raw=true"/>
